@@ -11,6 +11,7 @@ body {
    font-family: var(--main-font);
    font-size: 16px;
    background-color: var(--white-color);
+   color: var(--text-color);
 }
 
 a {
@@ -41,7 +42,6 @@ li {
 
 /* section texts */
 .section-text {
-    color: var(--text-color);
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
